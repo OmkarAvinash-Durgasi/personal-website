@@ -18,7 +18,7 @@ services:
         volumes:
             - .:/var/www/html
         ports:
-            - "8090:80"
+            - "${APP_HOST_PORT}:80"
     laravel-mysql-server:
         image: laravel-mysql-server
         container_name: laravel-mysql-server
@@ -28,12 +28,12 @@ services:
         volumes:
             - laravel_mysql_data:/var/lib/mysql
         environment:
-            MYSQL_DATABASE: portal_db
-            MYSQL_ROOT_PASSWORD: root
-            MYSQL_USER: admin
-            MYSQL_PASSWORD: admin
+            MYSQL_DATABASE: ${DB_DATABASE}
+            MYSQL_ROOT_PASSWORD: ${DB_ROOT_PASSWORD}
+            MYSQL_USER: ${DB_USERNAME}
+            MYSQL_PASSWORD: ${DB_PASSWORD}
         ports:
-            - "33070:3306"
+            - "${DB_HOST_PORT}:3306"
 volumes:
     laravel_mysql_data:
         driver: "local"

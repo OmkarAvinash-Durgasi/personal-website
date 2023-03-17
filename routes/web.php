@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\UserController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -16,3 +17,14 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('/welcome', function () {
+    return 'Hello World';
+});
+
+Route::get('/greet', function () {
+    return 'Hello World greeting';
+});
+
+//Route::redirect('/welcome', '/greet', 301);
+Route::permanentRedirect('/welcome', '/greet');
