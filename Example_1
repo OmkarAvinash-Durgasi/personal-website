@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T03:13:40.494Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="QC1AMGh-yZwpn-4tEBrf" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T03:19:13.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="jxr6IJ9L6v734OmDrpCg" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1313" dy="870" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1036" dy="728" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -40,7 +40,7 @@
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-17" value="Process the card&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="152" y="248" width="218" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-25" target="EkbyW3zNotg0G-Tw7Xo7-31">
+        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-25" target="EkbyW3zNotg0G-Tw7Xo7-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-25" value="Show options&lt;br&gt;&lt;br&gt;1.Statement&lt;br&gt;2.Balance enquiry&lt;br&gt;3.Withdrawl&lt;br&gt;4.Deposit&lt;br&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -60,16 +60,8 @@
             <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-31" target="EkbyW3zNotg0G-Tw7Xo7-68">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-70" value="3.Withdrawl" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EkbyW3zNotg0G-Tw7Xo7-69">
-          <mxGeometry x="0.0339" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-31" value="Checks &lt;br&gt;for the option" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="477.62" y="519" width="99.75" height="90.75" as="geometry" />
+          <mxGeometry x="174.62" y="517.62" width="99.75" height="90.75" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-33" target="EkbyW3zNotg0G-Tw7Xo7-38">
           <mxGeometry relative="1" as="geometry" />
@@ -78,22 +70,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-33" value="Process the request and fetches the information of the account" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220.755" y="534.375" width="119" height="60" as="geometry" />
+          <mxGeometry x="-82.245" y="534.375" width="119" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-38" target="EkbyW3zNotg0G-Tw7Xo7-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-38" value="Generates the statement" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220.76" y="652" width="120" height="60" as="geometry" />
+          <mxGeometry x="-82.24000000000001" y="652" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-40" value="Prints the statement" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220.76" y="772" width="120" height="80" as="geometry" />
+          <mxGeometry x="-82.24000000000001" y="772" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-43" value="Stop/Terminate" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="483" y="1078" width="100" height="60" as="geometry" />
+          <mxGeometry x="327" y="1078" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-48" value="Account Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="82" y="520.37" width="60" height="88" as="geometry" />
+          <mxGeometry x="-221" y="520.37" width="60" height="88" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-49" target="EkbyW3zNotg0G-Tw7Xo7-51">
           <mxGeometry relative="1" as="geometry" />
@@ -102,16 +94,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-49" value="Checks for the balance in the account" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="467.505" y="701.125" width="120" height="60" as="geometry" />
+          <mxGeometry x="164.505" y="701.125" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-51" value="Account Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="654" y="687.12" width="60" height="88" as="geometry" />
+          <mxGeometry x="351" y="687.12" width="60" height="88" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-53" value="Displays the Balance in the account" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440.89" y="812" width="173.24" height="74" as="geometry" />
+          <mxGeometry x="137.89" y="812" width="173.24" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-68" target="EkbyW3zNotg0G-Tw7Xo7-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-68" value="Checks &lt;br&gt;for the balance in the account" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1065" y="504.68" width="103.99" height="119.37" as="geometry" />
+        </mxCell>
+        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-71" value="Account Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1276" y="522.68" width="57" height="83.37" as="geometry" />
+        </mxCell>
+        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-74" value="Checks the options" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="487.5" y="522.995" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
