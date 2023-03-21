@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T04:39:10.455Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="22WZ9oJAwqVCZHRRhntm" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T11:49:32.164Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="6PE_uZ6Dn1yKgcfj1AKY" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="5650" dy="2705" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,6 +46,16 @@
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-25" value="Shows options&lt;br&gt;&lt;br&gt;1.Statement&lt;br&gt;2.Balance enquiry&lt;br&gt;3.Withdrawl&lt;br&gt;4.Deposit&lt;br&gt;5.Exit" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="414.5" y="341.63" width="226" height="101.75" as="geometry" />
         </mxCell>
+        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=41;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-27" target="EkbyW3zNotg0G-Tw7Xo7-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="289.5263671875" y="2153.9475804379113" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-335" y="393" />
+              <mxPoint x="-335" y="1812" />
+              <mxPoint x="528" y="1812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-27" value="Denies access to the user and gives message &quot;Invalid Card&quot;" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-43" y="362.5" width="169.76" height="60" as="geometry" />
         </mxCell>
@@ -81,8 +91,8 @@
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-40" target="EkbyW3zNotg0G-Tw7Xo7-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-28" y="1719" />
-              <mxPoint x="528" y="1719" />
+              <mxPoint x="-28" y="1747" />
+              <mxPoint x="528" y="1747" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -178,8 +188,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1300.005" y="1859.5999755859375" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1293" y="1719" />
-              <mxPoint x="528" y="1719" />
+              <mxPoint x="1293" y="1747" />
+              <mxPoint x="528" y="1747" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -261,10 +271,10 @@
         <mxCell id="EkbyW3zNotg0G-Tw7Xo7-146" value="User have to verify the bills and insert the folded bills" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=24;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="660.5" y="926" width="146" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.604;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-154" target="EkbyW3zNotg0G-Tw7Xo7-43">
+        <mxCell id="EkbyW3zNotg0G-Tw7Xo7-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=41;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="EkbyW3zNotg0G-Tw7Xo7-154" target="EkbyW3zNotg0G-Tw7Xo7-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="735" y="1675" />
+              <mxPoint x="733" y="1669" />
             </Array>
           </mxGeometry>
         </mxCell>
