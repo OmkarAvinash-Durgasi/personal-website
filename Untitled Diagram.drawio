@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T20:19:12.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OwPnCFuVCcpbKElr4n_4" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-21T20:31:42.244Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="9WMn5bdxTWA7vL_dGopr" version="20.8.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1750" dy="902" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="721" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -139,6 +139,9 @@
         </mxCell>
         <mxCell id="qug5ZGFB6QfTer1JU1MR-59" value="Displays the courses &lt;br&gt;that the student registered in &lt;br&gt;particular semester with &lt;br&gt;their percentage" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;direction=west;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="399" y="604" width="222" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="qug5ZGFB6QfTer1JU1MR-65" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;Canvas App Login Flowchart&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="226" y="946" width="374" height="46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
