@@ -2,7 +2,7 @@ FROM node:lts as nodebuild
 FROM composer:lts as composerbuild
 FROM php:8.2.2-apache
 
-LABEL Maintainer="Gopibabu Srungavarapu <gs333s@att.com>" \
+LABEL Maintainer="Gopibabu Srungavarapu <s.gopibabu@gmail.com>" \
       Description="Docker Image for raptor development environment"
 
 ###############################################################################
