@@ -1,6 +1,9 @@
 <?php
 
+use App\Http\Controllers\FlightController;
 use App\Http\Controllers\UserController;
+use App\Models\Flight;
+use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -51,3 +54,11 @@ Route::controller(UserController::class)->group(function () {
 Route::get('/posts/{id}', function (string $id) {
     return 'Post '.$id;
 });
+
+/*
+|--------------------------------------------------------------------------
+| User Routes
+|--------------------------------------------------------------------------
+*/
+Route::get('/flights', [FlightController::class, 'list']);
+Route::get('/flights/{id}', [FlightController::class, 'getById']);
