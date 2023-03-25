@@ -2,9 +2,11 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\CustomerInfo;
+use App\Models\User;
 use Illuminate\Http\Request;
 
-class UserController extends Controller
+class CustomerController extends Controller
 {
     private Request $request;
 
@@ -15,16 +17,17 @@ class UserController extends Controller
 
     public function index(Request $request2): void
     {
-        echo 'User Index Page';
+        //CustomerInfo::all();
+        echo 'Customer Index Page';
     }
 
-    public function create(): void
+    public function create()
     {
-        echo 'User Create Page';
+        return CustomerInfo::all();
     }
 
     public function any(): void
     {
-        echo 'User Page';
+        echo 'Customer Page';
     }
 }

@@ -14,17 +14,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
 
 Route::get('/welcome', function () {
-    return 'Hello World';
-});
+    return redirect()->route('greetWebController');
+})->name('welcomeWebController');
 
 Route::get('/greet', function () {
     return 'Hello World greeting';
-});
+})->name('greetWebController');
 
 //Route::redirect('/welcome', '/greet', 301);
-Route::permanentRedirect('/welcome', '/greet');
+//Route::permanentRedirect('/welcome', '/greet');
