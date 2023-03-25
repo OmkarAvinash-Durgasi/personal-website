@@ -15,7 +15,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 //Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
+=======
+Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 =======
 Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
 >>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec

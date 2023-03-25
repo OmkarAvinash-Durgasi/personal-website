@@ -7,6 +7,9 @@ namespace Database\Seeders;
 //use App\Models\CustomerInfo;
 =======
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+<<<<<<< HEAD
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
+=======
 >>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 use App\Models\User;
 use Illuminate\Database\Seeder;
@@ -19,6 +22,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
         $this->call([UserSeeder::class]);
         $this->call([CustomerSeeder::class]);
@@ -36,6 +40,10 @@ class DatabaseSeeder extends Seeder
         //     'name' => 'Test User',
         //     'email' => 'test@example.com',
         // ]);
+=======
+        $this->call([UserTableSeeder::class]);
+        $this->call([FlightTableSeeder::class]);
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 =======
         $this->call([UserTableSeeder::class]);
         $this->call([FlightTableSeeder::class]);

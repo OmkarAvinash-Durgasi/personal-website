@@ -13,8 +13,12 @@ class UserController extends Controller
         $this->request = $request;
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
     public function index(Request $request2): void
+=======
+    public function index(string $name = null): void
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 =======
     public function index(string $name = null): void
 >>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec

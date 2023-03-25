@@ -1,9 +1,16 @@
 <?php
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 use App\Http\Controllers\CustomerController;
 use App\Http\Controllers\UserController;
 use App\Models\CustomerInfo;
+=======
+use App\Http\Controllers\FlightController;
+use App\Http\Controllers\UserController;
+use App\Models\Flight;
+use Illuminate\Database\Eloquent\Collection;
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 =======
 use App\Http\Controllers\FlightController;
 use App\Http\Controllers\UserController;
@@ -62,10 +69,13 @@ Route::get('/posts/{id}', function (string $id) {
 });
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Route::get('/customers', [CustomerController::class, 'index']);
 Route::get('/customers/1', [CustomerController::class, 'create']);
 Route::post('/customers', [CustomerController::class, 'any']);
 =======
+=======
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 /*
 |--------------------------------------------------------------------------
 | User Routes
@@ -73,4 +83,7 @@ Route::post('/customers', [CustomerController::class, 'any']);
 */
 Route::get('/flights', [FlightController::class, 'list']);
 Route::get('/flights/{id}', [FlightController::class, 'getById']);
+<<<<<<< HEAD
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
+=======
 >>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
