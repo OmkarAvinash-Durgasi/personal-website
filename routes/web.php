@@ -1,6 +1,6 @@
 <?php
 
-use App\Http\Controllers\UserController;
+use App\Http\Controllers\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -14,7 +14,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+<<<<<<< HEAD
 //Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
+=======
+Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 
 Route::get('/welcome', function () {
     return redirect()->route('greetWebController');

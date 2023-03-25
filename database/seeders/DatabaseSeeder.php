@@ -2,8 +2,12 @@
 
 namespace Database\Seeders;
 
+<<<<<<< HEAD
 //use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 //use App\Models\CustomerInfo;
+=======
+// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 use App\Models\User;
 use Illuminate\Database\Seeder;
 use Ramsey\Uuid\Codec\OrderedTimeCodec;
@@ -15,6 +19,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
+<<<<<<< HEAD
         $this->call([UserSeeder::class]);
         $this->call([CustomerSeeder::class]);
         $this->call([OfficeSeeder::class]);
@@ -31,5 +36,9 @@ class DatabaseSeeder extends Seeder
         //     'name' => 'Test User',
         //     'email' => 'test@example.com',
         // ]);
+=======
+        $this->call([UserTableSeeder::class]);
+        $this->call([FlightTableSeeder::class]);
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
     }
 }

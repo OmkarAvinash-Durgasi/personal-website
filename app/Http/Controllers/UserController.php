@@ -12,19 +12,23 @@ class UserController extends Controller
     {
         $this->request = $request;
     }
+<<<<<<< HEAD
 
     public function index(Request $request2): void
+=======
+    public function index(string $name = null): void
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
     {
-        echo 'User Index Page';
+        echo $this->request->fullUrl().' '. 'name '. $name;
     }
 
-    public function create(): void
+    public function create()
     {
-        echo 'User Create Page';
+        return $this->request->getPort();
     }
 
-    public function any(): void
+    public function any(Request $laravelRequest)
     {
-        echo 'User Page';
+        echo $laravelRequest->fullUrl();
     }
 }

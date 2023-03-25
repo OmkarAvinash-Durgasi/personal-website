@@ -1,8 +1,15 @@
 <?php
 
+<<<<<<< HEAD
 use App\Http\Controllers\CustomerController;
 use App\Http\Controllers\UserController;
 use App\Models\CustomerInfo;
+=======
+use App\Http\Controllers\FlightController;
+use App\Http\Controllers\UserController;
+use App\Models\Flight;
+use Illuminate\Database\Eloquent\Collection;
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -54,6 +61,16 @@ Route::get('/posts/{id}', function (string $id) {
     return 'Post '.$id;
 });
 
+<<<<<<< HEAD
 Route::get('/customers', [CustomerController::class, 'index']);
 Route::get('/customers/1', [CustomerController::class, 'create']);
 Route::post('/customers', [CustomerController::class, 'any']);
+=======
+/*
+|--------------------------------------------------------------------------
+| User Routes
+|--------------------------------------------------------------------------
+*/
+Route::get('/flights', [FlightController::class, 'list']);
+Route::get('/flights/{id}', [FlightController::class, 'getById']);
+>>>>>>> 8ee643196e28ba1f29c3d7cc2de4588127c999ec
