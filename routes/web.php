@@ -17,15 +17,15 @@ use Illuminate\Support\Facades\Route;
 
 //Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
 Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
-Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
+//Route::get('/', [HomeController::class, 'index'])->name('homeWebController');
 
-Route::get('/welcome', function () {
-    return redirect()->route('greetWebController');
-})->name('welcomeWebController');
-
-Route::get('/greet', function () {
-    return 'Hello World greeting';
-})->name('greetWebController');
+//Route::get('/welcome', function () {
+//    return redirect()->route('greetWebController');
+//})->name('welcomeWebController');
+//
+//Route::get('/greet', function () {
+//    return 'Hello World greeting';
+//})->name('greetWebController');
 
 //Route::redirect('/welcome', '/greet', 301);
 //Route::permanentRedirect('/welcome', '/greet');
