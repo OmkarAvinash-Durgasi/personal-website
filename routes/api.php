@@ -3,8 +3,8 @@
 use App\Http\Controllers\CustomerController;
 use App\Http\Controllers\FlightController;
 use App\Http\Controllers\UserController;
-use Illuminate\Routing\Route;
 use Illuminate\Support\Facades\Request;
+use Illuminate\Support\Facades\Route;
 
 
 /*
