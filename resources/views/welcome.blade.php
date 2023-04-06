@@ -8,6 +8,6 @@
     <title>Larvel</title>
 </head>
 <body>
-<h1> Welcome to Laravel with Gopi</h1>
+<h1> Welcome to Laravel with Omkar</h1>
 </body>
 </html>
