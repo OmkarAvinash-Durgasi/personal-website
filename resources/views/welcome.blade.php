@@ -81,7 +81,10 @@
 
         <div class="section-title">
           <h2>About</h2>
-          <p>Highly skilled developer with 7 years of experience using the LAMP stack (Linux, Apache, MySQL, PHP) and related frameworks such as Laravel, CodeIgniter, and Symfony. Strong expertise in building complex web applications using PHP, JavaScript, HTML/CSS, and various web development tools. Proficient in database design, optimization, and management.
+          <p>Highly skilled developer with 7 years of experience using the LAMP stack (Linux, Apache, MySQL, PHP)
+              and related frameworks such as Laravel, CodeIgniter, and Symfony. Strong expertise in building
+              complex web applications using PHP, JavaScript, HTML/CSS, and various web development tools.
+              Proficient in database design, optimization, and management.
           </p>
         </div>
 
@@ -90,7 +93,7 @@
             <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
-            <h3>Full Stack Web Developer.</h3>
+            <h3>Full Stack Web Developer</h3>
               <p>
                   Experienced in designing and implementing complex systems, integrating with third-party APIs,
                   and ensuring compliance with relevant security standards. Skilled in Agile methodologies, Git version control,
@@ -203,10 +206,13 @@
 
         <div class="row">
           <div class="col-lg-6">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
               <h4>Omkar Avinash D</h4>
-              <p><em>Innovative and deadline-driven Graphic Designer with 3+ years of experience designing and developing user-centered digital/print marketing material from initial concept to final, polished deliverable.</em></p>
+              <p><em>Highly skilled developer with 7 years of experience using the LAMP stack (Linux, Apache, MySQL, PHP)
+                      and related frameworks such as Laravel, CodeIgniter, and Symfony. Strong expertise in building
+                      complex web applications using PHP, JavaScript, HTML/CSS, and various web development tools.
+                      Proficient in database design, optimization, and management.</em></p>
               <ul>
                 <li>24 Meadow Lane, Bridgewater, MAS</li>
                 <li>(475) 280-0399</li>
@@ -219,13 +225,13 @@
               <h4>Masters in Computer Engineering (Data Science)</h4>
               <h5>2021 - 2022</h5>
               <p><em>University of New Haven, West Haven, CT, </em></p>
-              <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
+              <p>Graduate student in Data Science with knowledge of Python, Machine Learning, Visualization tools like Power BI, Tableau and Project Management</p>
             </div>
             <div class="resume-item">
               <h4>Bachelor of Technology in Computer Science and Engineering</h4>
               <h5>2012 - 2016</h5>
               <p><em>Jawaharlal Nehru Technological University Kakinada, Andhra Pradesh, INDIA</em></p>
-              <p>Quia nobis sequi est occaecati aut. Repudiandae et iusto quae reiciendis et quis Eius vel ratione eius unde vitae rerum voluptates asperiores voluptatem Earum molestiae consequatur neque etlon sader mart dila</p>
+              <p>Undergraduate student in Computer Science where I have gained knowledge on working with HTML, CSS, Java, Python, SQL which lead my interest towards a web developer</p>
             </div>
           </div>
           <div class="col-lg-6">
@@ -272,7 +278,7 @@
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p></p>
         </div>
 
         <div class="row">
@@ -285,8 +291,8 @@
                 </svg>
                 <i class="bx bxl-dribbble"></i>
               </div>
-              <h4><a href="">Lorem Ipsum</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <h4><a href="">Full Stack Development</a></h4>
+              <p>Full stack developer services</p>
             </div>
           </div>
 
@@ -298,8 +304,8 @@
                 </svg>
                 <i class="bx bx-file"></i>
               </div>
-              <h4><a href="">Sed Perspiciatis</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <h4><a href="">Customized Web App Development</a></h4>
+              <p>Customized Web App Development services</p>
             </div>
           </div>
 
@@ -311,8 +317,8 @@
                 </svg>
                 <i class="bx bx-tachometer"></i>
               </div>
-              <h4><a href="">Magni Dolores</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <h4><a href="">CMS Web Development</a></h4>
+                <p>CMS Web Development services</p>
             </div>
           </div>
 
@@ -324,8 +330,9 @@
                 </svg>
                 <i class="bx bx-layer"></i>
               </div>
-              <h4><a href="">Nemo Enim</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <h4><a href="">Static Web Service</a></h4>
+                <p>Static Web Services</p>
+
             </div>
           </div>
 
@@ -337,8 +344,8 @@
                 </svg>
                 <i class="bx bx-slideshow"></i>
               </div>
-              <h4><a href="">Dele Cardo</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <h4><a href="">PHP Development</a></h4>
+              <p>PHP Development Services Static Web Services Static Web Services Static Web Services</p>
             </div>
           </div>
 
@@ -350,8 +357,8 @@
                 </svg>
                 <i class="bx bx-arch"></i>
               </div>
-              <h4><a href="">Divera Don</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <h4><a href="">Building Restful APIs</a></h4>
+              <p>Restful API Services Static Web Services Static Web Services Static Web Services </p>
             </div>
           </div>
 
@@ -458,7 +465,7 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>24 Meadow Lane, Unit-8, Bridgewater, Massachusetts 02324</p>
               </div>
 
               <div class="email">
@@ -515,13 +522,13 @@
   <footer id="footer">
     <div class="container">
       <h3>Omkar Avinash D</h3>
-      <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+      <p>There is no end for learning process, keep learning</p>
       <div class="social-links">
-        <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://twitter.com/OmkarAvinashD" class="twitter"><i class="bx bxl-twitter"></i></a>
+        <a href="https://github.com/OmkarAvinash-Durgasi" class="github"><i class="bx bxl-github"></i></a>
+        <a href="https://www.instagram.com/creature_i4me/" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
+        <a href="https://www.linkedin.com/in/omkar-durgasi-38842414a/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
         &copy; Copyright <strong><span>omkaravinashd.me</span></strong>. All Rights Reserved
