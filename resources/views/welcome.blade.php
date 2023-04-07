@@ -235,21 +235,28 @@
               <h5>Aug 2022 - Present</h5>
               <p><em>Tokio Marine HCC, Encino, CA 91436</em></p>
               <ul>
-                <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                <li>Designing and developing broker portal and underwriter portal using HTML, SCSS, Material UI and ReactJS.</li>
+                <li>Incorporated security features and followed best practices to protect against cyber threats and vulnerabilities.</li>
+                <li>Integrated payment gateways into microservices (web services) we created to enable brokers and underwriters to purchase
+                    insurance products and services online on behalf of insured customers using Laravel Framework,
+                    Eloquent ORM and MySQL Database. </li>
+                <li>Provided support to the applications used by underwriters and brokers for troubleshooting issues in the production
+                    environment and deploying applications to AWS-EC2 using Jenkins.</li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Web Developer (Graduate Assistant) </h4>
+              <h5>Aug 2021 - Aug 2022</h5>
+              <p><em>University of New Haven, West Haven, CT 06516</em></p>
               <ul>
-                <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                <li>Analyzed the requirements and designed by re-writing the website, including defining the site's structure,
+                    navigation, and content.</li>
+                <li>Constructed visual elements of the website, such as the user interface,
+                    layout, and graphics using jQuery, Java Script, HTML, CSS and Bootstrap. </li>
+                <li>Developed the website's server-side features such as APIs using PHP,
+                    Symfony framework, Doctrine ORM and Postgresql Database. </li>
+                <li>Responsible for making the website secure by implementing an
+                    authentication and authorization system to protect student data and prevent unauthorized access.</li>
               </ul>
             </div>
           </div>
