@@ -60,9 +60,7 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
-      <div class="row" data-aos="zoom-in" >
-          <img src="assets/img/hero-bg1.jpg" class="img-fluid" alt="">
-      </div>
+
       <div class="container" data-aos="zoom-in" data-aos-delay="100">
 
             <h1>Omkar Avinash D</h1>
@@ -104,7 +102,7 @@
         </div>
             <div class="row">
           <div class="col-lg-4">
-              <img src="assets/img/profile-img1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/profile-img1.jpg" class="img-fluid" alt="" style="border-radius: 25px; ">
           </div>
 
             <div class="col-lg-8 pt-4 pt-lg-0 content">
