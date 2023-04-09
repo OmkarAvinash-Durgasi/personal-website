@@ -364,7 +364,7 @@
                 <i class="bx bx-slideshow"></i>
               </div>
               <h4><a href="">PHP Development</a></h4>
-              <p>PHP Development Services Static Web Services Static Web Services Static Web Services</p>
+              <p>PHP Development Services </p>
             </div>
           </div>
 
@@ -377,7 +377,7 @@
                 <i class="bx bx-arch"></i>
               </div>
               <h4><a href="">Building Restful APIs</a></h4>
-              <p>Restful API Services Static Web Services Static Web Services Static Web Services </p>
+              <p>Restful API Services  </p>
             </div>
           </div>
 
