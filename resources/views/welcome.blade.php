@@ -60,8 +60,10 @@
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
-      <img src="assets/img/hero-bg1.jpg" class="img-fluid" alt="">
-    <div class="container" data-aos="zoom-in" data-aos-delay="100">
+      <div class="row" data-aos="zoom-in" >
+          <img src="assets/img/hero-bg1.jpg" class="img-fluid" alt="">
+      </div>
+      <div class="container" data-aos="zoom-in" data-aos-delay="100">
 
             <h1>Omkar Avinash D</h1>
             <p>I'm a <span class="typed" data-typed-items="Web Developer, Freelancer, Photographer"></span></p>
