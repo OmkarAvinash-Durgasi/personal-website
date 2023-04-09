@@ -44,7 +44,9 @@
   <!-- ======= Header ======= -->
   <header id="header" class="d-flex flex-column justify-content-center">
 
+
     <nav id="navbar" class="navbar nav-menu">
+
       <ul>
         <li><a href="#hero" class="nav-link scrollto active"><i class="bx bx-home"></i> <span>Home</span></a></li>
         <li><a href="#about" class="nav-link scrollto"><i class="bx bx-user"></i> <span>About</span></a></li>
@@ -57,7 +59,10 @@
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center">
+  <section id="hero" class="d-flex flex-column justify-content-lg-center>
+  <div class="col-lg-auto">
+  <img src="assets/img/hero-bg1.jpg" class="img-fluid" alt="">
+  </div>
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <h1>Omkar Avinash D</h1>
       <p>I'm a <span class="typed" data-typed-items="Web Developer, Freelancer, Photographer"></span></p>
@@ -70,6 +75,7 @@
         <a href="https://www.linkedin.com/in/omkar-durgasi-38842414a/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
     </div>
+
   </section><!-- End Hero -->
 
   <main id="main">
@@ -86,12 +92,7 @@
               Proficient in database design, optimization, and management.
           </p>
         </div>
-
-        <div class="row">
-          <div class="col-lg-4">
-            <img src="assets/img/profile-img1.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-8 pt-4 pt-lg-0 content">
+            <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Full Stack Web Developer</h3>
               <p>
                   Experienced in designing and implementing complex systems, integrating with third-party APIs,
@@ -118,9 +119,14 @@
                 </ul>
               </div>
             </div>
+            </div>
+                  <div class="col-lg-4">
+                      <img src="assets/img/profile-img1.jpg" class="img-fluid" alt="">
+                  </div>
 
-          </div>
-        </div>
+
+
+
 
       </div>
     </section><!-- End About Section -->
@@ -521,7 +527,7 @@
   <footer id="footer">
     <div class="container">
       <h3>Omkar Avinash D</h3>
-      <p>There is no end for learning process, keep learning</p>
+      <p>There is no end for learning. So keep learning</p>
       <div class="social-links">
         <a href="https://twitter.com/OmkarAvinashD" class="twitter"><i class="bx bxl-twitter"></i></a>
         <a href="https://github.com/OmkarAvinash-Durgasi" class="github"><i class="bx bxl-github"></i></a>
@@ -537,7 +543,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: [license-url] -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/ -->
-        Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+       <!-- Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> -->
       </div>
     </div>
   </footer><!-- End Footer -->
